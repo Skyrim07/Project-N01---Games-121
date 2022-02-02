@@ -26,6 +26,7 @@ public class L02Character : MonoBehaviour
         sr=GetComponent<SpriteRenderer>();
     }
 
+
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.A))
